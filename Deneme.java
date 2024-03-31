@@ -13,8 +13,6 @@ dasfskalfd
 
 */
 
-/ *
-* /
 //
 //
 /*
@@ -23,8 +21,11 @@ dasfskalfd
 public class Main {
 
     public static void main(String[] args) {
+        /***/
 
-        String loc//alPath = "./FilesDirectory";
+        String localPath = "./Files/**
+        @param jkhjk
+        Directory";*/
 
         File file = new File(localPath) ;
 
